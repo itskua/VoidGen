@@ -1,7 +1,7 @@
 name: '${name}'
 version: '${version}'
 main: '${group}.${name}'
-api-version: 1.13
+api-version: 26.3
 load: STARTUP
 loadbefore: [ Multiverse-Core, Multiworld ]
 author: '${author}'
